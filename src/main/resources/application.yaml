@@ -1,0 +1,6 @@
+spring:
+  jpa:
+    defer-datasource-initialization: true
+  thymeleaf:
+    cache: false
+    mode: HTML

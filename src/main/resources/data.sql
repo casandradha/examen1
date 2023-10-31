@@ -1,0 +1,1 @@
+insert into tasks (description,status,creation_date) values ('comprar cereal', 0, NOW());
